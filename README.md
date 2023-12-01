@@ -10,7 +10,7 @@ With over ten years of experience in front-end development, particularly in Reac
 *   ✉️  You can contact me at [zv.hristov@gmail.com](mailto:zv.hristov@gmail.com)
 *   🧠  I'm learning Prisma & Apollo
 *   🤝  I'm open to collaborating on React / Prisma / Apollo projects
-*   ⚡  No digget No ride### Skills 
+*   ⚡  No digget No ride
 
 ### Skills
 
