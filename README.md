@@ -1,5 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zvezdomir
-Web Developer-------------With over ten years of experience in front-end development, particularly in React I have a deep understanding of front-end technologies and best practices, and I am adept at collaborating with cross-functional teams to deliver high-quality software solutions. My skills and experience include: JS, React / React Native / Angular CLI* 🌍  I'm based in Sofia* ✉️  You can contact me at [zv.hristov@gmail.com](mailto:zv.hristov@gmail.com)* 🧠  I'm learning Prisma & Apollo* 🤝  I'm open to collaborating on React / Prisma / Apollo projects* ⚡  No digget No ride
+=================================================================================================================================
+
+Web Developer
+-------------
+
+With over ten years of experience in front-end development, particularly in React I have a deep understanding of front-end technologies and best practices, and I am adept at collaborating with cross-functional teams to deliver high-quality software solutions. My skills and experience include: JS, React / React Native / Angular CLI
+
+*   🌍  I'm based in Sofia
+*   ✉️  You can contact me at [zv.hristov@gmail.com](mailto:zv.hristov@gmail.com)
+*   🧠  I'm learning Prisma & Apollo
+*   🤝  I'm open to collaborating on React / Prisma / Apollo projects
+*   ⚡  No digget No ride### Skills 
 
 ### Skills
 
