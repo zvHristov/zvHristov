@@ -9,7 +9,7 @@ With over ten years of experience in front-end development, particularly in Reac
 *   🌍  I'm based in Sofia
 *   ✉️  You can contact me at [zv.hristov@gmail.com](mailto:zv.hristov@gmail.com)
 *   🧠  I'm learning Prisma & Apollo
-*   🤝  I'm open to collaborating on React / Prisma / Apollo projects
+*   🤝  I'm open to collaborating on openAI and Rust/Tokyo
 *   ⚡  No digget No ride
 
 ### Skills
